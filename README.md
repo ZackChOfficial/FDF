@@ -15,7 +15,7 @@ This projects seeks to show the basics of graphic programming, and in particular
 
 ## Compiling ##
 
-  ### To compile the 4 programs: ##
+  ### To compile: ##
   ```
   make
   ```
@@ -27,7 +27,7 @@ This projects seeks to show the basics of graphic programming, and in particular
   ```
   make fclean
   ```
-  ### Re-compile All ###
+  ### Re-compile###
   ```
   make re
   ```
